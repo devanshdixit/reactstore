@@ -1,1 +1,1 @@
-# Tsgirt Online store in React
+# Tshirt Online store in React
